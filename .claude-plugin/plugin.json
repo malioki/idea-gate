@@ -1,5 +1,6 @@
 {
   "name": "idea-gate",
+  "displayName": "Idea Gate",
   "description": "Judge business ideas against your own situation and past decisions. One verdict, the reason, and the piece worth keeping.",
   "version": "0.1.0",
   "author": {
@@ -8,5 +9,12 @@
   },
   "repository": "https://github.com/malioki/idea-gate",
   "license": "MIT",
-  "keywords": ["ideas", "decision-making", "indie-hacker", "solo-founder", "side-project"]
+  "keywords": [
+    "ideas",
+    "decision-making",
+    "indie-hacker",
+    "solo-founder",
+    "side-project"
+  ],
+  "homepage": "https://github.com/malioki/idea-gate#readme"
 }
