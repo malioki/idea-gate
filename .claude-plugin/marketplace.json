@@ -1,0 +1,14 @@
+{
+  "name": "idea-gate",
+  "owner": {
+    "name": "Alexandr Dudnic"
+  },
+  "plugins": [
+    {
+      "name": "idea-gate",
+      "source": "./",
+      "description": "Judge business ideas against your own situation and past decisions. One verdict, the reason, and the piece worth keeping."
+    }
+  ],
+  "description": "Idea Gate: judge ideas against your own situation and past decisions"
+}

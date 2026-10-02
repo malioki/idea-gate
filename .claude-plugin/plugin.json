@@ -1,0 +1,12 @@
+{
+  "name": "idea-gate",
+  "description": "Judge business ideas against your own situation and past decisions. One verdict, the reason, and the piece worth keeping.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alexandr Dudnic",
+    "url": "https://github.com/malioki"
+  },
+  "repository": "https://github.com/malioki/idea-gate",
+  "license": "MIT",
+  "keywords": ["ideas", "decision-making", "indie-hacker", "solo-founder", "side-project"]
+}
