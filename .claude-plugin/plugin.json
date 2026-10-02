@@ -16,5 +16,8 @@
     "solo-founder",
     "side-project"
   ],
-  "homepage": "https://github.com/malioki/idea-gate#readme"
+  "homepage": "https://github.com/malioki/idea-gate#readme",
+  "documentationUrl": "https://github.com/malioki/idea-gate#readme",
+  "supportUrl": "https://github.com/malioki/idea-gate/issues",
+  "privacyPolicyUrl": "https://github.com/malioki/idea-gate/blob/main/PRIVACY.md"
 }
